@@ -236,13 +236,12 @@ This info is needed to get the team member's profile ready with Savvy HR in orde
 
 1. [ ] Amara: Add to Tweetdeck.
 
-### FOR SALES AND FINANCE ONLY
+### FOR SALES, CUSTOMER SUCCESS AND FINANCE ONLY
 
 1. [ ] Finance: Add to Comerica (as user or viewer only if in Finance)
 1. [ ] Finance: Add to [QuickBooks users](https://about.gitlab.com/handbook/hiring/) (finance only)
 1. [ ] Hiring Manager: Create Issue for [Sales Bootcamp](https://about.gitlab.com/handbook/sales-onboarding/).  Naming convention for issue is "New hires name - Sales Bootcamp".  Due date is 30 days after start date.
 1. [ ] Hiring Manager: Invite to sales meeting.
-1. [ ] Hiring Manager: Invite to GLU
 1. [ ] Hiring Manager: Schedule weekly 1:1 meeting
 1. [ ] People Ops: [upgrade new team member's Zoom account](https://about.gitlab.com/handbook/general-onboarding/onboarding-processes/#make-zoom-pro) to Pro.
 1. [ ] Sales Operations (Francis): Add to  [Salesforce], [Sertifi].
