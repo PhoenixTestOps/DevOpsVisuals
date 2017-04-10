@@ -237,7 +237,7 @@ This info is needed to get the team member's profile ready with Savvy HR in orde
 
 ### FOR MARKETING ONLY
 
-1. [ ] Amara: Add to Tweetdeck.
+1. [ ] People Ops: Ping Amanda in the issue to add to Tweetdeck, unless position title is BDR.
 
 ### FOR SALES, CUSTOMER SUCCESS AND FINANCE ONLY
 
