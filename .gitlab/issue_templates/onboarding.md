@@ -1,6 +1,6 @@
 ### BEFORE STARTING AT GITLAB
 
-1. [ ] People Ops (Admin): Once the contract is signed, as soon as possible, create a **confidential** issue called 'Onboarding (NAME), starting (DATE), as (ROLE)' in the [People Ops issue tracker](https://gitlab.com/gitlab-com/peopleops/issues) with relevant lines of the master checklist, paste the private email address of the hire in there and /cc @brittanyr and @sashab, and the GitLab.com handle of the new team member if known.
+1. [ ] People Ops (Admin): Once the contract is signed, as soon as possible, create a **confidential** issue called 'Onboarding (NAME), starting (DATE), as (ROLE)' in the [People Ops issue tracker](https://gitlab.com/gitlab-com/peopleops/issues) with relevant lines of the master checklist, paste the private email address of the hire in there and /cc @brittanyr and @chloemw, and the GitLab.com handle of the new team member if known.
 1. [ ] Hiring manager is (FILL IN WITH @ HANDLE), buddy is (FILL IN WITH @HANDLE (Nominate someone preferably in similar timezone but different functional group, try to pair engineering and non-engineering if possible)), and People Ops is tackled by (FILL IN WITH @ HANDLE).
 1. [ ] People Ops (Admin): Send an email to the chosen buddy letting them know that they have been chosen and include a link to the onboarding issue.
 1. [ ] Buddy: Schedule video call for first day to introduce yourself, and make sure they know that if they have questions, they can come to you. Check with the new team member if they will need help setting up their SSH key and installing a Shell ready for using Git locally. You may need to setup an additional meeting for this step. But your main job as a buddy will be to direct them to the right parts of the handbook, and/or encourage them to ask their questions of the wider group on chat, etc.
@@ -10,9 +10,18 @@
    1. [ ] New team member: Google does not support 2FA in some countries ([e.g. Nigeria](https://productforums.google.com/forum/#!topic/gmail/3_wcd8tAqdc) ); if that is the case for you, reach out to People Ops to get the initial authentication code sent to a phone in  supported country, after which 2FA will work as normal.
    1. [ ] People Ops (Admin): inform Hiring manager that Google account has been created by mentioning them with a comment in the issue.
 1. [ ] People Ops (Specialist): Invite GitLabber's GitLab.com account to the [gitlab-com group](https://gitlab.com/groups/gitlab-com/group_members) as a developer.
+1. [ ] 1Password
+   1. [ ] New team member: Register on 1Password by clicking on the link in the ["Link to 1Password Sign-Up"](https://docs.google.com/document/d/15BdqpNhSi_5bc2b9KXo_w5f0gC-3gmuw-aIgzRcbnbk/edit) Google Doc and then ping @brittanyr to confirm your account. You can find this (and other) shared Google Docs by using [`Search for files shared with gitlab.com`](https://support.google.com/a/answer/3187967?hl=en) in Google Drive.
+   1. [ ] New team member: Once you are registered on 1Password, post a comment below to ask the hiring manager to add you to the 1Password groups required for your role.
+   1. [ ] New team member: install the 1Password app on your computer, and link it to your team account, as described on the [security best practices page](https://about.gitlab.com/handbook/security/). Please let People Ops or your manager know if you need any assistance.
+   1. [ ] New team member: Change your password on GitLab.com to use 1Password if you had an account before joining the company.
+   1. [ ] New team member: If you created any accounts while onboarding before being added to 1Password, reset your passwords for them to use 1Password.
+   1. [ ] New team member: Set up [secure passwords per the handbook](https://about.gitlab.com/handbook/security/).
 1. [ ] Hiring manager: in the "GitLab Email Forwarding" doc, suggest which email aliases the new team member should be added to, then ping one of the admins mentioned in the doc to help get it done.
 1. [ ] Hiring manager: determine if new team member will need access to the `dev` server. If so, make [new dev.GitLab.org account](https://dev.gitlab.org/admin/users/new) and invite to the [gitlab group](https://dev.gitlab.org/groups/gitlab/group_members) as a developer
 1. [ ] Hiring manager: let the new team member know their handle for dev.gitlab.org by mentioning it here.
+1. [ ] Hiring Manager: Schedule a video call with new team member at the start of their first day.
+1. [ ] Hiring Manager: Organize smooth onboarding with clear starting tasks / pathway for new team member.
 1. [ ] Slack
    1. [ ] People Ops (Admin): Add to [Slack](https://gitlab.slack.com/admin).
    1. [ ] New team member: pick your [Slack username](https://gitlab.slack.com/account/settings#username) to be the same as your GitLab email handle, for consistency and ease of use.
@@ -74,8 +83,6 @@
     > or equipment that you need. You can also reference the company handbook (https://about.gitlab.com/handbook/spending-company-money) in this matter.
 
 1. [ ] People Ops (Admin): Inform the hiring manager about the hire by announcing in general chat channel 'X has joined GitLab as (title)!'
-1. [ ] Hiring Manager: Schedule a video call with new team member at the start of their first day.
-1. [ ] Hiring Manager: Organize smooth onboarding with clear starting tasks / pathway for new team member.
 1. [ ] People Ops (Admin): Create a row for the new user on the [1Password spreadsheet](https://docs.google.com/spreadsheets/d/1dSlIRbD1b8XisIBbANDK5NGe55LvVSTsWM7aHcWCOVU/edit#gid=0)
 
 ### ON YOUR FIRST DAY
@@ -103,8 +110,6 @@ This info is needed to get the team member's profile ready with Savvy HR in orde
 1. [ ] People Ops (Specialist) once the payroll form has been completed and signed by the new team member file the document in BambooHR under Documents/Payroll Forms.
 1. [ ] New Team Member: read through the [AXA PPP Brochure](https://drive.google.com/a/gitlab.com/file/d/0Bwy71gCp1WgtUXcxeFBaM0MyT00/view?usp=sharing) and let peopleops know if you would like to join the medical insurance scheme. This does not currently include dental or optical care. Please also note that this is a P11d taxable benefit.
 
-
-
 #### For employees in Belgium only (GitLab BV)
 
 1. [ ] New Team Member: to ensure that we have all of your details ready for payroll processing please complete the following information on BambooHR;
@@ -128,13 +133,7 @@ This info is needed to get the team member's profile ready with Savvy HR in orde
 1. [ ] New team member: Enable [two-factor authentication](http://docs.gitlab.com/ee/profile/two_factor_authentication.html) on your GitLab.com account.
 1. [ ] New team member: Make sure your notifications for GitLab.com aren't sent to a personal email. Send them to your `@gitlab.com` email.
 1. [ ] 1Password
-   1. [ ] New team member: Register on 1Password by clicking on the link in the ["Link to 1Password Sign-Up"](https://docs.google.com/document/d/15BdqpNhSi_5bc2b9KXo_w5f0gC-3gmuw-aIgzRcbnbk/edit) Google Doc and then ping @brittanyr to confirm your account. You can find this (and other) shared Google Docs by using [`Search for files shared with gitlab.com`](https://support.google.com/a/answer/3187967?hl=en) in Google Drive.
-   1. [ ] New team member: Once you are registered on 1Password, post a comment below to ask the hiring manager to add you to the 1Password groups required for your role.
-   1. [ ] Hiring manager: Add the new team member to the required groups in [1Password](https://gitlab.1password.com) if you have access to the Admin Console in 1Password. If you do not have access please ping @brittanyr with which vaults the new team member should be added to
-   1. [ ] New team member: install the 1Password app on your computer, and link it to your team account, as described on the [security best practices page](https://about.gitlab.com/handbook/security/). Please let People Ops or your manager know if you need any assistance.
-   1. [ ] New team member: Change your password on GitLab.com to use 1Password if you had an account before joining the company.
-   1. [ ] New team member: If you created any accounts while onboarding before being added to 1Password, reset your passwords for them to use 1Password.
-   1. [ ] New team member: Set up [secure passwords per the handbook](https://about.gitlab.com/handbook/security/).
+    1. [ ] Hiring manager: Add the new team member to the required groups in 1Password if you have access to the Admin Console in 1Password. If you do not have access please ping @brittanyr with which vaults the new team member should be added to.
 1. [ ] New team member: Set up [Calendly](https://about.gitlab.com/handbook/tools-and-tips/#calendly) and add your Calendly link to your Slack profile.
 
 ### WITHIN FIRST WEEK OF STARTING
