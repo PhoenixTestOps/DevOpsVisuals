@@ -190,7 +190,7 @@ This info is needed to get the team member's profile ready with Savvy HR in orde
 1. [ ] Hiring Manager: Provide access to PagerDuty if applicable.
 1. [ ] Hiring Manager (For Build Engineers): Add new team member as a member to the GitLab Dev Digital Ocean account https://cloud.digitalocean.com/settings/team
 
-#### FOR SERVICE ENGINEERING ONLY
+#### FOR SUPPORT ENGINEERING ONLY
 
 1. [ ] Hiring Manager: Open a new [support onboarding boot camp issue](https://gitlab.com/gitlab-com/support/issues) using the support [onboarding checklist](https://about.gitlab.com/handbook/support/onboarding/checklist), and provide the link in a comment below this onboarding checklist.
 1. [ ] Hiring Manager: Provide access to hackerone.com
