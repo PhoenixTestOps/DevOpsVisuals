@@ -138,7 +138,7 @@ This info is needed to get the team member's profile ready with Savvy HR in orde
 1. [ ] Hiring Manager (For Build Engineers): Remove team member as a member to the GitLab Dev Digital Ocean account https://cloud.digitalocean.com/settings/team
 1. [ ] People Ops: Remove any development VMs. Send a merge request to [the environments repo](https://gitlab.com/gitlab-com/environments) to remove `env-dev/name-surname.tf`. Follow the instructions [here](https://gitlab.com/gitlab-com/environments/tree/master/#how-do-i-delete-an-instance-i-dont-need-anymore).
 
-#### FOR SERVICE ENGINEERING ONLY
+#### FOR SUPPORT ENGINEERING ONLY
 
 1. [x] _not relevant_ Hiring Manager: Open a new [support onboarding boot camp issue](https://gitlab.com/gitlab-com/support/issues) using the support [onboarding checklist](https://about.gitlab.com/handbook/support/onboarding/checklist), and provide the link in a comment below this onboarding checklist.
 1. [ ] Hiring Manager: Remove access to hackerone.com
