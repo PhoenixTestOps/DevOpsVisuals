@@ -25,6 +25,7 @@
 1. [ ] Slack
    1. [ ] People Ops (Admin): Add to [Slack](https://gitlab.slack.com/admin).
    1. [ ] New team member: pick your [Slack username](https://gitlab.slack.com/account/settings#username) to be the same as your GitLab email handle, for consistency and ease of use.
+   1. [ ] New team member: Introduce yourself in the Slack [#new_labbers](https://gitlab.slack.com/messages/new_labbers/) channel, where you can ask any questions you have and get to know other new team members!
    1. [ ] Hiring manager: please inform what [Slack groups](https://gitlab.slack.com/admin#user_groups) the new team member should be added to by adding this to the "GitLab Email Forwarding" document as a suggestion.
 1. [ ] People Ops Information
    1. [ ] New team member: provide scan of photo ID to People Ops (used for verification, such as [I9 verification](https://www.uscis.gov/sites/default/files/files/form/i-9.pdf), and business travel purposes)
