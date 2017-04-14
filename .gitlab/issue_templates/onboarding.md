@@ -16,6 +16,7 @@
 1. [ ] Slack
    1. [ ] People Ops (Admin): Add to [Slack](https://gitlab.slack.com/admin).
    1. [ ] New team member: pick your [Slack username](https://gitlab.slack.com/account/settings#username) to be the same as your GitLab email handle, for consistency and ease of use.
+   1. [ ] New team member: Introduce yourself in the Slack [#new_labbers](https://gitlab.slack.com/messages/new_labbers/) channel, where you can ask any questions you have and get to know other new team members!
    1. [ ] Hiring manager: please inform what [Slack groups](https://gitlab.slack.com/admin#user_groups) the new team member should be added to by adding this to the "GitLab Email Forwarding" document as a suggestion.
 1. [ ] People Ops Information
    1. [ ] New team member: provide scan of photo ID to People Ops (used for verification, such as [I9 verification](https://www.uscis.gov/sites/default/files/files/form/i-9.pdf), and business travel purposes)
@@ -176,7 +177,6 @@ This info is needed to get the team member's profile ready with Savvy HR in orde
 1. [ ] New team member: Become familiar with how GitLab works by learning our [GitLab Basics](http://doc.gitlab.com/ce/gitlab-basics/README.html)
 1. [ ] New team member: Reach out to your onboarding buddy, or any other GitLabber to show you how to do some advanced git tasks locally. For example, configure and/or solve a merge conflict.
 1. [ ] New team member: Set-up and familiarize yourself with our apps: [Gmail](https://mail.google.com/), [Google Calendar](https://www.google.com/calendar/), [Slack](https://gitlab.slack.com/messages/general/) and [Google Drive](https://www.google.com/drive/) where you can [download](https://tools.google.com/dlpage/drive/index.html?hl=en) to work offline. Be aware your Google Calendar (tied to your GitLab Google account) is internally viewable by default, you might want to [change this](https://support.google.com/calendar/answer/34580?co=GENIE.Platform%3DDesktop&hl=en) in your calendar settings.
-1. [ ] New team member: Introduce yourself in the Slack [#new_labbers](https://gitlab.slack.com/messages/new_labbers/) channel, where you can ask any questions you have and get to know other new team members!
 1. [ ] New team member: Take a look at the "Reference Customers" Google doc to familiarize yourself with which customer information should be kept confidential within the company. You can find it by logging into your Google Drive account and searching for "Reference Customers".
 1. [ ] Hiring Manager: Set new GitLabbers' project-level permissions as-needed.
 
