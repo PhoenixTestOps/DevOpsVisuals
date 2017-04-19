@@ -126,6 +126,10 @@ This info is needed to get the team member's profile ready with Savvy HR in orde
      1. [ ] Email address
      1. [ ] Salary
 
+#### For employees in India only (Lyra)
+
+1. [ ] New team member: Read through the [India Specific Benefits](https://about.gitlab.com/handbook/benefits/#india-specific-benefits). This will explain what is available. If you have any questions please contact Lyra HR at +91 80 40408181 or email them at hr@lyrainfo.com. Lyra HR will also reach out to you in the first week of starting at GitLab to complete their onboarding documents for payroll (if this has not already been done during the contract signing stage).
+
 #### All GitLabbers
 
 1. [ ] New team member: Read the [security best practices](https://about.gitlab.com/handbook/security/), and please ask questions to make sure it is all clear to you.
