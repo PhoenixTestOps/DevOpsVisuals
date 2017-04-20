@@ -181,6 +181,7 @@ This info is needed to get the team member's profile ready with Savvy HR in orde
 1. [ ] Hiring Manager: Remove from [Recurly](https://app.recurly.com/login)
 1. [ ] People Ops: remove team member's Zoom account.
 1. [ ] Hiring Manager: Remove from  [Salesforce]
+1. [ ] Rubén or Oswaldo: Remove from admin panel in the [Subscription portal](https://customers.gitlab.com/admin)
 1. [x] _not relevant_ New team member: Ask a colleague if they can do a screenshare the next time they process an order using Recurly and Salesforce.
 1. [x] _not relevant_ Sales Manager: Grant access to the [Sales Folder](https://drive.google.com/drive/u/0/#shared-with-me) in our Google Docs. In this folder, familiarize yourself with:
 1. [x] _not relevant_ New team member: In the [Sales Folder](https://drive.google.com/drive/u/0/#shared-with-me), familiarize yourself with ... (removed for brevity)
