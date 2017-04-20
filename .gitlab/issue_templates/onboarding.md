@@ -168,7 +168,7 @@ This info is needed to get the team member's profile ready with Savvy HR in orde
    1. [ ] call with ___
    1. [ ] call with ___
    1. [ ] call with ___
-1. [ ] New team member: Link your GitLab email address to an easily recognizable photo of yourself on [Gravatar](https://en.gravatar.com/). It is company policy to not use an avatar, a stock photo, or something with sunglasses, as we have a lot of GitLabbers and our brains are comfortable with recognizing people; let's use them.
+1. [ ] New team member: Link your GitLab email address to an easily recognizable photo of yourself on [Gravatar](https://en.gravatar.com/). It is company policy to use a photo, and not an avatar, a stock photo, or something with sunglasses for your any of your GitLab accounts, as we have a lot of GitLabbers and our brains are comfortable with recognizing people; let's use them.
 1. [ ] New team member: Download Git https://docs.gitlab.com/ce/gitlab-basics/start-using-git.html
 1. [ ] New team member: [Add yourself](https://about.gitlab.com/handbook/general-onboarding/#add-yourself-to-the-team-page) to the [team page](https://about.gitlab.com/team/) with an easily recognizable photo. Assign the merge request to your hiring manager.
 1. [ ] New team member: Add yourself to the "New Hire Tweets" Google [doc](https://docs.google.com/document/d/1NmrgUXnigXXptEnxjBTI9sBWKyWyynBP_8K-S0fYC1w/edit). Add the template text for the tweet that announces your entry to the team: "Very happy to announce that [NAME] has joined #TeamGitLab! Welcome [TWITTER HANDLE]! https://about.gitlab.com/team/". Emily v.H. will schedule a tweet about the new hire when the addition to the team page has been merged.
