@@ -26,7 +26,8 @@
    1. [x] _not relevant_ New team member: pick your [Slack username](https://gitlab.slack.com/account/settings#username) to be the same as your GitLab email handle, for consistency and ease of use.
    1. [x] _not relevant_ Hiring manager: please inform what [Slack groups](https://gitlab.slack.com/admin#user_groups) the new team member should be added to by adding this to the "GitLab Email Forwarding" document as a suggestion.
 1. [ ] People Ops Information
-   1. [ ] People Ops: Remove former team member from TriNet / Savvy and payroll if applicable.
+   1. [ ] People Ops: Remove former team member from TriNet / Savvy and depending on the former team member's location, inform co-employer payrolls. For UK employees instruct payroll to send the individuals P45 to their home address.
+   2. [ ] People Ops: For UK employees, remove them from the medical insurance effective from termination date (email Vistra)
    1. [ ] People Ops: Mark former team member as terminated in BambooHR. Use the date mentioned in this issue as final date of employment / contract.
    1. [ ] People Ops: Notify eShares administrator (CFO) of offboarding.
 1. [x] _not relevant_ New team member: read [Handbooks](https://about.gitlab.com/handbook/), read the relevant onboarding pages that are linked from there, and become comfortable with Git and the GitLab workflow.
