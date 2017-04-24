@@ -24,7 +24,7 @@
 1. [ ] Slack
    1. [ ] People Ops disable team member in [Slack](https://gitlab.slack.com/admin).
    1. [x] _not relevant_ New team member: pick your [Slack username](https://gitlab.slack.com/account/settings#username) to be the same as your GitLab email handle, for consistency and ease of use.
-   1. [x] _not relevant_ Hiring manager: please inform what [Slack groups](https://gitlab.slack.com/admin#user_groups) the new team member should be added to by adding this to the "GitLab Email Forwarding" document as a suggestion.
+   1. [x] _not relevant_ Manager: please inform what [Slack groups](https://gitlab.slack.com/admin#user_groups) the new team member should be added to by adding this to the "GitLab Email Forwarding" document as a suggestion.
 1. [ ] People Ops Information
    1. [ ] People Ops: Remove former team member from TriNet / Savvy and depending on the former team member's location, inform co-employer payrolls. For UK employees instruct payroll to send the individuals P45 to their home address.
    2. [ ] People Ops: For UK employees, remove them from the medical insurance effective from termination date (email Vistra)
@@ -38,10 +38,10 @@
    1. [x] _not relevant_ People Ops: Add new team member to the next monthly GitLab 101 call
    1. [ ] People Ops: Remove team member from Team Call Agenda and re-arrange the days on which GitLabbers speak in the Team Call Agenda.
    1. [ ] People Ops: If applicable, remove the team member from the APAC team call.
-   1. [ ] Hiring Manager: Add entry to Team Call agenda to announce departure of team member: 'X is no longer with GitLab'.
+   1. [ ] Manager: Add entry to Team Call agenda to announce departure of team member: 'X is no longer with GitLab'.
    1. [ ] PeopleOps: Remove former team member from the next Retro meeting and the Kickoff meeting that's scheduled and save for all events in the future.
-   1. [ ] Hiring Manager: Remove team member from team meeting invitations.
-   1. [ ] Hiring Manager: Cancel weekly 1:1 meetings with new team member.
+   1. [ ] Manager: Remove team member from team meeting invitations.
+   1. [ ] Manager: Cancel weekly 1:1 meetings with new team member.
    1. [x] _not relevant_ New team member: Access BambooHR, set a secure password and fill out any missing details of your profile; specifically your address, phone number(s), banking information, ethnicity and emergency contact information. Make sure to add the country code to phone numbers (i.e. all numbers should start with `+`).
 1. [ ] People Ops: Remove team member from [team page](https://about.gitlab.com/team). Don't forget to remove the profile picture.
 1. [ ] People Ops: If there is one, remove team member's pet from [team pets page](https://about.gitlab.com/team-pets). Don't forget to remove the picture.
@@ -53,10 +53,10 @@ and removing them from everywhere except blog posts. If you do not have a tool o
    1. [ ] People Ops: Inform Controller / Accounting if any items in former GitLabbers possession will not be returning, so that they can be removed from asset tracking.
 1. [x] _not relevant_ Buddy: Schedule video call for first day to introduce yourself, and make sure they know that if they have questions, they can come to you. But your main job as a buddy will be to direct them to the right parts of the handbook, and/or encourage them to ask their questions of the wider group on chat, etc.
 1. [x] _not relevant_ People Ops: Send brief welcome email to their personal address that directs the new team member to their GitLab email and their onboarding issue.
-1. [ ] Hiring Manager: Announce in #general chat channel as soon as the chat and Google Accounts are blocked: 'As of today X is no longer with GitLab. Out of respect to their privacy I can't go into details. If you have any questions that I might be able to answer please let me know.' It is very important to send this message as soon as possible so people know that they can rely on official communication channels and not have to find out through the grapevine. Delays in announcing it are not acceptable. The policy of not commenting on circumstances is in force indefinitely. If people press for answers say you don't want to suggest that underperformance was a reason for this exit but remind them that:
+1. [ ] Manager: Announce in #general chat channel as soon as the chat and Google Accounts are blocked: 'As of today X is no longer with GitLab. Out of respect to their privacy I can't go into details. If you have any questions that I might be able to answer please let me know.' It is very important to send this message as soon as possible so people know that they can rely on official communication channels and not have to find out through the grapevine. Delays in announcing it are not acceptable. The policy of not commenting on circumstances is in force indefinitely. If people press for answers say you don't want to suggest that underperformance was a reason for this exit but remind them that:
     * It is stated in our general guidelines that job feedback is between an individual and their manager
     * If managers do their job right any exit should come as a surprise to everyone except the individual and the manager.
-1. [x] _not relevant_ Hiring Manager: Schedule a video call with new team member at the start of their first day.
+1. [x] _not relevant_ Manager: Schedule a video call with new team member at the start of their first day.
 1. [ ] Manager: Organize smooth hand over of any work or tasks from former team member. Offer option to send a message to everyone in the company (i.e. forwarded by the manager), for a farewell message and/or to transmit their personal email address in case people wish to stay in touch.
 1. [ ] People Ops: remove former team member from the ["1Password Shared Folders"](https://docs.google.com/a/gitlab.com/spreadsheets/d/1dSlIRbD1b8XisIBbANDK5NGe55LvVSTsWM7aHcWCOVU/edit?usp=sharing) Google Sheet.
 
@@ -125,38 +125,38 @@ This info is needed to get the team member's profile ready with Savvy HR in orde
 1. [x] _not relevant_ New team member: Reach out to your onboarding buddy, or any other GitLabber to show you how to do some advanced git tasks locally. For example, configure and/or solve a merge conflict.
 1. [x] _not relevant_ Set-up and familiarize yourself with our apps: [Gmail](https://mail.google.com/), [Google Calendar](https://www.google.com/calendar/), [Slack](https://gitlab.slack.com/messages/general/) and [Google Drive](https://www.google.com/drive/) where you can [download](https://tools.google.com/dlpage/drive/index.html?hl=en) to work offline. Be aware your google calendar (tied to your GitLab account) is internally viewable by default, you might want to [change this](https://support.google.com/calendar/answer/34580?co=GENIE.Platform%3DDesktop&hl=en) in your calendar settings.
 1. [x] _not relevant_ New team member: Take a look at the "Reference Customers" google doc to familiarize yourself with which customer information should be kept confidential within the company.
-1. [ ] Hiring Manager: Check former GitLabbers' project-level permissions and remove them as-needed.
-1. [ ] People Ops: Review all open merge requests and reassign to hiring manager.
+1. [ ] Manager: Check former GitLabbers' project-level permissions and remove them as-needed.
+1. [ ] People Ops: Review all open merge requests and reassign to the manager.
 
 ### FOR ENGINEERING ONLY (Devs, PEs, SEs)
 
-1. [ ] Hiring Manager: Remove former GitLabbers' GitLab.com account from the [gitlab-org group](https://gitlab.com/groups/gitlab-org/group_members)
-1. [ ] Hiring Manager: Remove former GitLabbers' GitHub.com account from the [gitlabhq organization](https://github.com/orgs/gitlabhq/people) (if applicable)
-1. [ ] Hiring Manager: Remove former GitLabbers' account from [Sentry](https://sentry.gitlap.com/organizations/gitlab/members/)
+1. [ ] Manager: Remove former GitLabbers' GitLab.com account from the [gitlab-org group](https://gitlab.com/groups/gitlab-org/group_members)
+1. [ ] Manager: Remove former GitLabbers' GitHub.com account from the [gitlabhq organization](https://github.com/orgs/gitlabhq/people) (if applicable)
+1. [ ] Manager: Remove former GitLabbers' account from [Sentry](https://sentry.gitlap.com/organizations/gitlab/members/)
 1. [ ] For former Developers (those who had access to part of the infrastructure), and Production GitLabbers: copy offboarding process from [infrastructure](https://dev.gitlab.org/cookbooks/chef-repo/blob/master/doc/offboarding.md) for offboarding action.
 1. [x] _not relevant_ For Developer GitLabbers: Read the [developer documentation](http://docs.gitlab.com/ce/development/README.html).
-1. [ ] Hiring Manager: Remove access to PagerDuty if applicable.
-1. [ ] Hiring Manager (For Build Engineers): Remove team member as a member to the GitLab Dev Digital Ocean account https://cloud.digitalocean.com/settings/team
+1. [ ] Manager: Remove access to PagerDuty if applicable.
+1. [ ] Manager (For Build Engineers): Remove team member as a member to the GitLab Dev Digital Ocean account https://cloud.digitalocean.com/settings/team
 1. [ ] People Ops: Remove any development VMs. Send a merge request to [the environments repo](https://gitlab.com/gitlab-com/environments) to remove `env-dev/name-surname.tf`. Follow the instructions [here](https://gitlab.com/gitlab-com/environments/tree/master/#how-do-i-delete-an-instance-i-dont-need-anymore).
 
 #### FOR SUPPORT ENGINEERING ONLY
 
-1. [x] _not relevant_ Hiring Manager: Open a new [support onboarding boot camp issue](https://gitlab.com/gitlab-com/support/issues) using the support [onboarding checklist](https://about.gitlab.com/handbook/support/onboarding/checklist), and provide the link in a comment below this onboarding checklist.
-1. [ ] Hiring Manager: Remove access to hackerone.com
-1. [ ] Hiring Manager: Remove access from Tweetdeck for [at]gitlabstatus.
-1. [ ] Hiring Manager: Remove access from Tweetdeck for [at]githostio.
+1. [x] _not relevant_ Manager: Open a new [support onboarding boot camp issue](https://gitlab.com/gitlab-com/support/issues) using the support [onboarding checklist](https://about.gitlab.com/handbook/support/onboarding/checklist), and provide the link in a comment below this onboarding checklist.
+1. [ ] Manager: Remove access to hackerone.com
+1. [ ] Manager: Remove access from Tweetdeck for [at]gitlabstatus.
+1. [ ] Manager: Remove access from Tweetdeck for [at]githostio.
 1. [ ] Zendesk [(general information about removing agents)](https://support.zendesk.com/hc/en-us/articles/203661156-Best-practices-for-removing-agents#2):
-   1. [ ] Hiring Manager: Remove any triggers related to the agent - https://gitlab.zendesk.com/agent/admin/triggers
-   1. [ ] Hiring Manager: Downgrade the agent role to "end-user" - [more information](https://support.zendesk.com/hc/en-us/articles/203661156-Best-practices-for-removing-agents#2)
+   1. [ ] Manager: Remove any triggers related to the agent - https://gitlab.zendesk.com/agent/admin/triggers
+   1. [ ] Manager: Downgrade the agent role to "end-user" - [more information](https://support.zendesk.com/hc/en-us/articles/203661156-Best-practices-for-removing-agents#2)
         + **Warning: This will unassign all tickets from the agent** Consider reducing the "full agent" count on our Zendesk license.
-   1. [ ] Hiring Manager: Schedule a date to suspend the agents account. [More information](https://support.zendesk.com/hc/en-us/articles/203661156-Best-practices-for-removing-agents#3)
-   1. [x] _not relevant_ Hiring Manager: Add agent to required [support groups](https://support.zendesk.com/hc/en-us/articles/203661766-About-organizations-and-groups) in [GitLab ZenDesk](https://gitlab.zendesk.com).
+   1. [ ] Manager: Schedule a date to suspend the agents account. [More information](https://support.zendesk.com/hc/en-us/articles/203661156-Best-practices-for-removing-agents#3)
+   1. [x] _not relevant_ Manager: Add agent to required [support groups](https://support.zendesk.com/hc/en-us/articles/203661766-About-organizations-and-groups) in [GitLab ZenDesk](https://gitlab.zendesk.com).
 1. [ ] Community Forum:
-   1. [ ] Hiring Manager: Remove team member from "moderators" group on the [GitLab community forum](https://forum.gitlab.com/).
+   1. [ ] Manager: Remove team member from "moderators" group on the [GitLab community forum](https://forum.gitlab.com/).
    1. [x] _not relevant_ New team member: Create new account for the [GitLab community forum](https://forum.gitlab.com/) using the sign in with GitLab option and mention the username used.
-1. [ ] Hiring Manager: Remove team member as a member from the GitLab Dev DigitalOcean account https://cloud.digitalocean.com/settings/team
+1. [ ] Manager: Remove team member as a member from the GitLab Dev DigitalOcean account https://cloud.digitalocean.com/settings/team
 1. [ ] People Ops: remove team member's Zoom account.
-1. [ ] Hiring Manager: Remove team member from https://timezone.io/team/gitlab-support
+1. [ ] Manager: Remove team member from https://timezone.io/team/gitlab-support
 1. [ ] People Ops: Remove any development VMs. Send a merge request to [the environments repo](https://gitlab.com/gitlab-com/environments) to remove `env-dev/name-surname.tf`. Follow the instructions [here](https://gitlab.com/gitlab-com/environments/tree/master/#how-do-i-delete-an-instance-i-dont-need-anymore).
 
 #### FOR UX DESIGNERS, FRONTEND DEVS, AND DESIGNERS ONLY
@@ -165,23 +165,22 @@ This info is needed to get the team member's profile ready with Savvy HR in orde
 1. [x] _not relevant_ New team member: Join the [#ux](https://gitlab.slack.com/messages/ux/) channel on Slack.
 1. [ ] People Ops: cancel [SketchApp](http://www.sketchapp.com/) license (?).
 1. [ ] People Ops: (for Designers only, not UX Designers) remove access to [Adobe Creative Cloud](https://www.adobe.com/creativecloud.html) using the shared credential in the Secretarial vault.
-1. [ ] Hiring Manager: (for UX Designers) Remove former team member's `Master` access to the [gitlab-design](https://gitlab.com/gitlab-org/gitlab-design) project on GitLab.com.
-1. [ ] Hiring Manager: (for UX Designers) Remove former team member from the [GitLab Dribbble team](https://dribbble.com/gitlab).
+1. [ ] Manager: (for UX Designers) Remove former team member's `Master` access to the [gitlab-design](https://gitlab.com/gitlab-org/gitlab-design) project on GitLab.com.
+1. [ ] Manager: (for UX Designers) Remove former team member from the [GitLab Dribbble team](https://dribbble.com/gitlab).
 1. [ ] People Ops: (for UX Designers) remove team member from the `@uxers` User Group on Slack.
 
 ### FOR MARKETING ONLY
 
-1. [ ] Amara: Remove from Tweetdeck.
 1. [ ] Amanda: Remove from Tweetdeck.
 
 ### FOR SALES AND FINANCE ONLY
 
 1. [ ] Finance: Remove from Comerica (as user or viewer only if in Finance)
 1. [ ] Finance: Remove from [QuickBooks users](https://about.gitlab.com/handbook/hiring/) (finance only)
-1. [ ] Hiring Manager: Remove from sales meeting.
-1. [ ] Hiring Manager: Remove from [Recurly](https://app.recurly.com/login)
+1. [ ] Manager: Remove from sales meeting.
+1. [ ] Manager: Remove from [Recurly](https://app.recurly.com/login)
 1. [ ] People Ops: remove team member's Zoom account.
-1. [ ] Hiring Manager: Remove from  [Salesforce]
+1. [ ] Manager: Remove from  [Salesforce]
 1. [ ] Rubén or Oswaldo: Remove from admin panel in the [Subscription portal](https://customers.gitlab.com/admin)
 1. [x] _not relevant_ New team member: Ask a colleague if they can do a screenshare the next time they process an order using Recurly and Salesforce.
 1. [x] _not relevant_ Sales Manager: Grant access to the [Sales Folder](https://drive.google.com/drive/u/0/#shared-with-me) in our Google Docs. In this folder, familiarize yourself with:
