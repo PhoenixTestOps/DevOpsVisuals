@@ -50,7 +50,7 @@
    1. [ ] Manager: Schedule weekly [1:1 meetings](/handbook/leadership/#1:1-meetings) with new team member.
 1. [ ] People Ops (Admin): [Add blank entry to team page](https://about.gitlab.com/handbook/general-onboarding/onboarding-processes/#blank-entry) (only the start date and position, use "logo-extra-whitespace.png" for the picture) so the team can see when new people are joining.
 1. [ ] People Ops (Admin): Add to phishing testing platform.
-1. [ ] People Ops (Admin): Check if new team member indicated who they were referred by (in bottom of application, in Workable). If no referral indicated, check with new team member by asking in this issue "@{new team member} please let people ops know if you were referred by another GitLab team member; otherwise we will assume you were not".
+1. [ ] People Ops (Admin): Check if new team member indicated who they were referred by (in bottom of application, in Workable). If no referral indicated, check with new team member by asking in this issue "@{new team member} please let people ops know if you were referred by another GitLab team member; otherwise we will assume you were not". If there is a referral indicated, ping @brittanyr in this issue with the referral name. 
     1. [ ] People Ops (Specialist): If the new team member was referred, add the referral bonus to BambooHR.
 1. [ ] People Ops (Admin): Send brief welcome email to their personal address that directs the new team member to their GitLab email and their onboarding issue. Template text:
 
