@@ -60,11 +60,11 @@
     > please let me know if that is not the case.
     >
     > Everything you need to get started is listed in your onboarding issue:
-    > [Insert link]. To access this issue, please let People Ops know
-    > your GitLab.com account. If you already have an account and want to separate work /
-    > personal handles on GitLab.com, you can make a new account with your GitLab email
-    > address as the primary. Make sure that your GitLab.com profile includes first and
-    > last name so e-mail notifications arrive correctly.
+    > [Insert link]. To access this issue, please
+    > let People Ops know your GitLab.com account. If you already have an account
+    > and want to separate work / personal handles on GitLab.com, you can make a
+    > new account with your GitLab email address as the primary. Make sure that your
+    > GitLab.com profile includes first and last name so e-mail notifications arrive correctly.
 
     > Check out Onboarding (https://about.gitlab.com/handbook/general-onboarding/) for
     > everything you need to know throughout the onboarding process. You might have
@@ -81,7 +81,8 @@
     > team, and what you like to do in your spare time.
 
     > Please let People Ops (cced here) know if there are any necessary supplies
-    > or equipment that you need. You can also reference the company handbook (https://about.gitlab.com/handbook/spending-company-money) in this matter.
+    > or equipment that you need. You can also reference the company handbook
+    > (https://about.gitlab.com/handbook/spending-company-money) in this matter.
 
 1. [ ] People Ops (Admin): Inform the manager about the hire by announcing in general chat channel 'X has joined GitLab as (title)!'
 1. [ ] People Ops (Admin): Create a row for the new user on the [1Password spreadsheet](https://docs.google.com/spreadsheets/d/1dSlIRbD1b8XisIBbANDK5NGe55LvVSTsWM7aHcWCOVU/edit#gid=0)
