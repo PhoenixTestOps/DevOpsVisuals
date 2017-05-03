@@ -191,7 +191,7 @@ This info is needed to get the team member's profile ready with Savvy HR in orde
 1. [ ] Manager: Add new team member to the [gitlab-org](https://gitlab.com/groups/gitlab-org/group_members) group on GitLab.com as a `Developer`.
 1. [ ] Manager: Add GitLabbers' GitHub.com account to the [gitlabhq organization](https://github.com/orgs/gitlabhq/people) (if applicable)
 1. [ ] Manager: Add team member to the backend group call (if applicable)
-1. [ ] For Production GitLabbers: Manager: create a new [Production Engineering onboarding checklist](https://gitlab.com/gitlab-com/infrastructure/blob/master/.gitlab/issue_templates/Onboarding Template.md).
+1. [ ] For Production GitLabbers: Manager: create a new [Production Engineering onboarding checklist](https://gitlab.com/gitlab-com/infrastructure/blob/master/.gitlab/issue_templates/onboarding_template.md).
 1. [ ] For Developer GitLabbers: Read the [developer documentation](http://docs.gitlab.com/ce/development/README.html).
 1. [ ] Manager: Provide access to PagerDuty if applicable.
 1. [ ] Manager (For Build Engineers): Add new team member as a member to the GitLab Dev Digital Ocean account https://cloud.digitalocean.com/settings/team
