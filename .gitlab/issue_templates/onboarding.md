@@ -50,7 +50,7 @@
    1. [ ] Manager: Schedule weekly [1:1 meetings](/handbook/leadership/#1:1-meetings) with new team member.
 1. [ ] People Ops (Admin): [Add blank entry to team page](https://about.gitlab.com/handbook/general-onboarding/onboarding-processes/#blank-entry) (only the start date and position, use "logo-extra-whitespace.png" for the picture) so the team can see when new people are joining.
 1. [ ] People Ops (Admin): Add to phishing testing platform.
-1. [ ] People Ops (Admin): Check if new team member indicated who they were referred by (in bottom of application, in Workable). If no referral indicated, check with new team member by asking in this issue "@{new team member} please let people ops know if you were referred by another GitLab team member; otherwise we will assume you were not". If there is a referral indicated, ping @brittanyr in this issue with the referral name. 
+1. [ ] People Ops (Admin): Check if new team member indicated who they were referred by (in bottom of application, in Workable). If no referral indicated, check with new team member by asking in this issue "@{new team member} please let people ops know if you were referred by another GitLab team member; otherwise we will assume you were not". If there is a referral indicated, ping @brittanyr in this issue with the referral name.
     1. [ ] People Ops (Specialist): If the new team member was referred, add the referral bonus to BambooHR.
 1. [ ] People Ops (Admin): Send brief welcome email to their personal address that directs the new team member to their GitLab email and their onboarding issue. Template text:
 
@@ -145,7 +145,7 @@ This info is needed to get the team member's profile ready with Savvy HR in orde
 
 ### WITHIN FIRST WEEK OF STARTING
 
-1. [ ] People Ops (Admin): Invite the new team member to [Printfection](https://www.printfection.com/) to order swag. 
+1. [ ] People Ops (Admin): Invite the new team member to [Printfection](https://www.printfection.com/) to order swag.
 1. [ ] People Ops (Admin): Send brief welcome email to their GitLab email address with the following message regarding Swag credit:
 
     > Happy first day at GitLab! We're excited that have you on the team!
@@ -191,7 +191,7 @@ This info is needed to get the team member's profile ready with Savvy HR in orde
 1. [ ] Manager: Add new team member to the [gitlab-org](https://gitlab.com/groups/gitlab-org/group_members) group on GitLab.com as a `Developer`.
 1. [ ] Manager: Add GitLabbers' GitHub.com account to the [gitlabhq organization](https://github.com/orgs/gitlabhq/people) (if applicable)
 1. [ ] Manager: Add team member to the backend group call (if applicable)
-1. [ ] For Production GitLabbers: Manager: add the [infrastructure onboarding checklist](https://dev.gitlab.org/cookbooks/chef-repo/blob/master/doc/onboard-new-sysadmin.md).
+1. [ ] For Production GitLabbers: Manager: create a new [Production Engineering onboarding checklist](https://gitlab.com/gitlab-com/infrastructure/blob/master/.gitlab/issue_templates/Onboarding Template.md).
 1. [ ] For Developer GitLabbers: Read the [developer documentation](http://docs.gitlab.com/ce/development/README.html).
 1. [ ] Manager: Provide access to PagerDuty if applicable.
 1. [ ] Manager (For Build Engineers): Add new team member as a member to the GitLab Dev Digital Ocean account https://cloud.digitalocean.com/settings/team
