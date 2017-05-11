@@ -144,6 +144,7 @@ This info is needed to get the team member's profile ready with Savvy HR in orde
     1. [ ] New team member: Once you are registered on 1Password, post a comment below to ask the manager to add you to the 1Password groups required for your role.
     1. [ ] Manager: Add the new team member to the required groups in 1Password if you have access to the Admin Console in 1Password. If you do not have access please ping @brittanyr with which vaults the new team member should be added to.
 1. [ ] New team member: Set up [Calendly](https://about.gitlab.com/handbook/tools-and-tips/#calendly) and add your Calendly link to your Slack profile.
+1. [ ] New team member: Set up [Zoom account](https://about.gitlab.com/handbook/tools-and-tips/#zoom) with your GitLab.com email address and fill in your [profile](https://zoom.us/profile): Name and Profile Picture
 
 ### WITHIN FIRST WEEK OF STARTING
 
