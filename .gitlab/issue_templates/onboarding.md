@@ -24,6 +24,7 @@
 1. [ ] Slack
    1. [ ] People Ops (Admin): Add to [Slack](https://gitlab.slack.com/admin).
    1. [ ] New team member: pick your [Slack username](https://gitlab.slack.com/account/settings#username) to be the same as your GitLab email handle, for consistency and ease of use.
+   1. [ ] New team member: Fill in your [Slack profile](https://gitlab.slack.com/account/profile): What I do (can be your job title or something more informative about your role), Timezone (useful for other GitLabbers to see if you're available), Email, GitLab.com profile, and Job Description.
    1. [ ] New team member: Introduce yourself in the Slack [#new_labbers](https://gitlab.slack.com/messages/new_labbers/) channel, where you can ask any questions you have and get to know other new team members!
    1. [ ] Manager: please inform what [Slack groups](https://gitlab.slack.com/admin#user_groups) the new team member should be added to by adding this to the "GitLab Email Forwarding" document as a suggestion.
 1. [ ] People Ops Information
@@ -137,6 +138,7 @@ This info is needed to get the team member's profile ready with Savvy HR in orde
 1. [ ] New team member: Enable 2FA on your GitLab email account (this should have been an option to do when you first received the invitation to the account).
 1. [ ] New team member: If you authenticated your GitLab.com account with Google, GitHub, etc. you should either disconnect them or make sure they use two-factor authentication.
 1. [ ] New team member: Enable [two-factor authentication](http://docs.gitlab.com/ee/profile/two_factor_authentication.html) on your GitLab.com account.
+1. [ ] New team member: Fill in your [GitLab.com profile](https://gitlab.com/profile): Organisation = "GitLab", Bio = "(title) at GitLab"
 1. [ ] New team member: Make sure your notifications for GitLab.com aren't sent to a personal email. Send them to your `@gitlab.com` email.
 1. [ ] 1Password
     1. [ ] New team member: Once you are registered on 1Password, post a comment below to ask the manager to add you to the 1Password groups required for your role.
