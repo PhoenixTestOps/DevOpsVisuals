@@ -61,8 +61,7 @@
     > please let me know if that is not the case.
     >
     > Everything you need to get started is listed in your onboarding issue:
-    > [Insert link]. To access this issue, please
-    > let People Ops know your GitLab.com account. If you already have an account
+    > [Insert link]. People Ops will send you an invitation to join the GitLab-com group in order to view the issue. If you already have an account
     > and want to separate work / personal handles on GitLab.com, you can make a
     > new account with your GitLab email address as the primary. Make sure that your
     > GitLab.com profile includes first and last name so e-mail notifications arrive correctly.
