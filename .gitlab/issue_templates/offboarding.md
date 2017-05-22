@@ -14,6 +14,7 @@
    1. [ ] People Ops: Switch off 2FA for the account, reset the password, and add the new credentials to the People Ops vault in 1Password.
    1. [ ] People Ops: Change the phone number and alternative email (typically personal email address) that are associated with the account.
    1. [ ] People Ops: Check with the former team member's manager if they want the former team member's email forwarded to them. If yes, then login to the team member's account and set email to forward to the manager. Note: The account cannot be suspended if emails need to be forwarded. If no, then suspend the account.
+   1. [ ] People Ops: Add an automatic response template to the account: ```Hello, {Team Member} has transitioned out of GitLab. If you have a general inquiry please email {Name} at {email}. Thank you, GitLab.```
    1. [ ] People Ops: Switch 2FA back on. Use a Yubikey to turn 2FA back on. 
    1. [ ] People Ops: upon manager's request (typically 4 weeks after blocking
      the Google account), transfer owned documents from Google Drive to
