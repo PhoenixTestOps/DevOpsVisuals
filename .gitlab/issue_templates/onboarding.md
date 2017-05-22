@@ -158,6 +158,7 @@ This info is needed to get the team member's profile ready with Savvy HR in orde
 1. [ ] People Ops (Admin): [Invite to autoconnect](https://about.gitlab.com/handbook/general-onboarding/onboarding-processes/#add-beamy) on [Beamy](https://app.suitabletech.com/).
 1. [ ] New team member: Log in on [Beamy](https://about.gitlab.com/handbook/communication/#beamy-guidelines) and explore the office.
 1. [ ] People Ops (Specialist): Order [business cards](https://about.gitlab.com/handbook/general-onboarding/onboarding-processes/#b-cards) for new team member.
+1. [ ] People Ops (Specialist): Send the new team member their Traveler Insurance ID card with a [link the to the hanbook](https://about.gitlab.com/handbook/benefits/#general-benefits).
 1. [ ] People Ops (Admin): Add team member to [Expensify](https://www.expensify.com/signin) (if employee). See SOP for more [instructions](https://about.gitlab.com/handbook/general-onboarding/onboarding-processes/#add-expensify).
 1. [ ] People Ops (Admin): Add new team member to the info sheets of the next Summit if applies.
 1. [ ] New team member: Check if there is a coming [Summit](https://gitlab.com/summits/) and save the date!
