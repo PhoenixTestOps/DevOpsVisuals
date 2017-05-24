@@ -1,9 +1,9 @@
 ### BEFORE STARTING AT GITLAB
 
 1. [ ] People Ops (Admin): Once the contract is signed, as soon as possible, create a **confidential** issue called 'Onboarding (NAME), starting (DATE), as (ROLE)' in the [People Ops issue tracker](https://gitlab.com/gitlab-com/peopleops/issues) with relevant lines of the master checklist, paste the private email address of the hire in there and /cc @brittanyr and @chloemw, and the GitLab.com handle of the new team member if known.
-1. [ ] Manager is (FILL IN WITH @ HANDLE), buddy is (FILL IN WITH @HANDLE (Nominate someone preferably in similar timezone but different functional group, try to pair engineering and non-engineering if possible)), and People Ops is tackled by (FILL IN WITH @ HANDLE).
+1. [ ] Manager is (FILL IN WITH @ HANDLE), buddy is (FILL IN WITH @HANDLE (Nominate someone preferably in similar time zone but different functional group, try to pair engineering and non-engineering if possible)), and People Ops is tackled by (FILL IN WITH @ HANDLE).
 1. [ ] People Ops (Admin): Send an email to the chosen buddy letting them know that they have been chosen and include a link to the onboarding issue.
-1. [ ] Buddy: Schedule video call for first day to introduce yourself, and make sure they know that if they have questions, they can come to you. Check with the new team member if they will need help setting up their SSH key and installing a Shell ready for using Git locally. You may need to setup an additional meeting for this step. But your main job as a buddy will be to direct them to the right parts of the handbook, and/or encourage them to ask their questions of the wider group on chat, etc.
+1. [ ] Buddy: Schedule video call for first day to introduce yourself, and make sure they know that if they have questions, they can come to you. Check with the new team member if they will need help setting up their SSH key and installing a Shell ready for using Git locally. You may need to set up an additional meeting for this step. But your main job as a buddy will be to direct them to the right parts of the handbook, and/or encourage them to ask their questions of the wider group on chat, etc.
 1. [ ] Google account
    1. [ ] People Ops (Admin): [Create Google account](https://admin.google.com/gitlab.com/AdminHome?pli=1&fral=1#UserList:org=49bxu3w3zb11yx), `first initial last name[at]gitlab.com`, email instructions to private email address, comment with private email below this issue.
    1. [ ] People Ops (Admin): Add new Google user to ['New Users' group](https://admin.google.com/gitlab.com/AdminHome?groupId=new-users@gitlab.com&chromeless=1#OGX:Group) to disable 2FA for them
@@ -51,7 +51,7 @@
    1. [ ] Manager: Schedule weekly [1:1 meetings](/handbook/leadership/#1:1-meetings) with new team member.
 1. [ ] People Ops (Admin): [Add blank entry to team page](https://about.gitlab.com/handbook/general-onboarding/onboarding-processes/#blank-entry) (only the start date and position, use "logo-extra-whitespace.png" for the picture) so the team can see when new people are joining.
 1. [ ] People Ops (Admin): Add to phishing testing platform.
-1. [ ] People Ops (Admin): Check if new team member indicated who they were referred by (in bottom of application, in Workable). If no referral indicated, check with new team member by asking in this issue "@{new team member} please let people ops know if you were referred by another GitLab team member; otherwise we will assume you were not". If there is a referral indicated, ping @brittanyr in this issue with the referral name.
+1. [ ] People Ops (Admin): Check if new team member indicated who they were referred by (in bottom of application, in Workable). If no referral indicated, check with new team member by asking in this issue "@{new team member} please let People Ops know if you were referred by another GitLab team member; otherwise, we will assume you were not". If there is a referral indicated, ping @brittanyr in this issue with the referral name.
     1. [ ] People Ops (Specialist): If the new team member was referred, add the referral bonus to BambooHR.
 1. [ ] People Ops (Admin): Send brief welcome email to their personal address that directs the new team member to their GitLab email and their onboarding issue. Template text:
 
@@ -61,8 +61,9 @@
     > please let me know if that is not the case.
     >
     > Everything you need to get started is listed in your onboarding issue:
-    > [Insert link]. People Ops will send you an invitation to join the GitLab-com group in order to view the issue. If you already have an account
-    > and want to separate work / personal handles on GitLab.com, you can make a
+    > [Insert link]. People Ops will send you an
+    > invitation to join the GitLab-com group in order to view the issue. If you already have
+    > an account and want to separate work / personal handles on GitLab.com, you can make a
     > new account with your GitLab email address as the primary. Make sure that your
     > GitLab.com profile includes first and last name so e-mail notifications arrive correctly.
 
@@ -81,7 +82,7 @@
     > and what you like to do in your spare time. Check out the Team Call page of our
     > handbook to learn more: https://about.gitlab.com/handbook/communication/#team-call.
 
-    > Please let People Ops (cced here) know if there are any necessary supplies
+    > Please let People Ops (cc'd here) know if there are any necessary supplies
     > or equipment that you need. You can also reference the company handbook
     > (https://about.gitlab.com/handbook/spending-company-money) in this matter.
 
@@ -97,7 +98,7 @@
 (TriNet Passport=>My Workplace=> Add New Hire/Rehire). This will generate the
 welcome email to the employee at their work email on their first date of hire.
 1. [ ] People Ops (Specialist): If new team member is an hourly employee, create a timesheet, share with Finance and the new team member. Also, send an email to Finance to let them know that an hourly employee has started.
-1. [ ] New employee: Complete [New Hire TriNet Passport 7 Steps Guide](https://docs.google.com/a/gitlab.com/document/d/1CFIyByd1Kgmz5353_aASVI1D8QTyJ2Uy60ziQHEPTUI/edit?usp=sharing). The I-9 portion of this must be completed within the first two days of hire. Note- this is critical so you must contact PeopleOps if you have difficulty with this form. (TriNet takes 24-48 hours to process new GitLabbers)
+1. [ ] New employee: Complete [New Hire TriNet Passport 7 Steps Guide](https://docs.google.com/a/gitlab.com/document/d/1CFIyByd1Kgmz5353_aASVI1D8QTyJ2Uy60ziQHEPTUI/edit?usp=sharing). The I-9 portion of this must be completed within the first two days of hire. Note- this is critical so you must contact People Ops if you have difficulty with this form. (TriNet takes 24-48 hours to process new GitLabbers)
 1. [ ] People Ops (Specialist): Complete the employer portion of the I9 in TriNet within three days of hire
 1. [ ] New employee: Read through the [New Hire Benefits Guide](https://drive.google.com/a/gitlab.com/file/d/0B0dixQ9qzgilNlN0MnNFS29xWnB2SjNWVUk3dUV2aWlhejVR/view?usp=sharing). This will go over medical, dental, vision, and voluntary benefits. Note - If you have any questions or need help within the TriNet system please contact the Employee Solution Center at 800-638-0461 or email them at employees@trinet.com.
 
@@ -111,7 +112,7 @@ This info is needed to get the team member's profile ready with Savvy HR in orde
 1. [ ] People Ops (Specialist): Using the template, send new team member the UK payroll form and New Starter Checklist (only if the new team member does not have a P45) to complete (this can be found in the Google Drive/UK Documents folder). Fill in as much information as possible from BambooHR and stage in HelloSign for signature. Cc People Ops and Vistra (email address is located on the Payroll form)
 1. [ ] New Team Member: Once you have received the payroll form please fill in the missing details and sign. This form will then be sent electronically to GitLab's payroll provider Vistra. If you have a P45 from your previous company please post this to Vistra at the address at the bottom of the payroll form. If you don't have a P45 then you must complete the New Starter Checklist and post this to Vistra.
 1. [ ] People Ops (Specialist): Once the payroll form has been completed and signed by the new team member file the document in BambooHR under Documents/Payroll Forms.
-1. [ ] New Team Member: Read through the [AXA PPP Brochure](https://drive.google.com/a/gitlab.com/file/d/0Bwy71gCp1WgtUXcxeFBaM0MyT00/view?usp=sharing) and let peopleops know if you would like to join the medical insurance scheme. This does not currently include dental or optical care. Please also note that this is a P11d taxable benefit.
+1. [ ] New Team Member: Read through the [AXA PPP Brochure](https://drive.google.com/a/gitlab.com/file/d/0Bwy71gCp1WgtUXcxeFBaM0MyT00/view?usp=sharing) and let People Ops know if you would like to join the medical insurance scheme. This does not currently include dental or optical care. Please also note that this is a P11d taxable benefit.
 
 #### For employees in Belgium only (GitLab BV)
 
@@ -159,7 +160,7 @@ This info is needed to get the team member's profile ready with Savvy HR in orde
 1. [ ] People Ops (Admin): [Invite to autoconnect](https://about.gitlab.com/handbook/general-onboarding/onboarding-processes/#add-beamy) on [Beamy](https://app.suitabletech.com/).
 1. [ ] New team member: Log in on [Beamy](https://about.gitlab.com/handbook/communication/#beamy-guidelines) and explore the office.
 1. [ ] People Ops (Specialist): Order [business cards](https://about.gitlab.com/handbook/general-onboarding/onboarding-processes/#b-cards) for new team member.
-1. [ ] People Ops (Specialist): Send the new team member their Traveler Insurance ID card with a [link the to the hanbook](https://about.gitlab.com/handbook/benefits/#general-benefits).
+1. [ ] People Ops (Specialist): Send the new team member their Traveler Insurance ID card with a [link the to the handbook](https://about.gitlab.com/handbook/benefits/#general-benefits).
 1. [ ] People Ops (Admin): Add team member to [Expensify](https://www.expensify.com/signin) (if employee). See SOP for more [instructions](https://about.gitlab.com/handbook/general-onboarding/onboarding-processes/#add-expensify).
 1. [ ] People Ops (Admin): Add new team member to the info sheets of the next Summit if applies.
 1. [ ] New team member: Check if there is a coming [Summit](https://gitlab.com/summits/) and save the date!
@@ -175,7 +176,7 @@ This info is needed to get the team member's profile ready with Savvy HR in orde
    1. [ ] call with ___
    1. [ ] call with ___
    1. [ ] call with ___
-1. [ ] New team member: Link your GitLab email address to an easily recognizable photo of yourself on [Gravatar](https://en.gravatar.com/). It is company policy to use a photo, and not an avatar, a stock photo, or something with sunglasses for your any of your GitLab accounts, as we have a lot of GitLabbers and our brains are comfortable with recognizing people; let's use them.
+1. [ ] New team member: Link your GitLab email address to an easily recognizable photo of yourself on [Gravatar](https://en.gravatar.com/). It is company policy to use a photo, and not an avatar, a stock photo, or something with sunglasses for your GitLab accounts, as we have a lot of GitLabbers and our brains are comfortable with recognizing people; let's use them.
 1. [ ] New team member: Download Git https://docs.gitlab.com/ce/gitlab-basics/start-using-git.html
 1. [ ] New team member: [Add yourself](https://about.gitlab.com/handbook/general-onboarding/#add-yourself-to-the-team-page) to the [team page](https://about.gitlab.com/team/) with an easily recognizable photo. Assign the merge request to your manager.
 1. [ ] New team member: Add yourself to the "New Hire Tweets" Google [doc](https://docs.google.com/document/d/1NmrgUXnigXXptEnxjBTI9sBWKyWyynBP_8K-S0fYC1w/edit). Add the template text for the tweet that announces your entry to the team: "Very happy to announce that [NAME] has joined #TeamGitLab! Welcome [TWITTER HANDLE]! https://about.gitlab.com/team/". Emily v.H. will schedule a tweet about the new hire when the addition to the team page has been merged.
@@ -242,7 +243,7 @@ This info is needed to get the team member's profile ready with Savvy HR in orde
 #### FOR UX DESIGNERS, FRONTEND DEVS, AND DESIGNERS ONLY
 
 1. [ ] New team member: (For Designers) Get the [Pixelmator app](https://itunes.apple.com/us/app/pixelmator/id407963104?mt=12&ign-mpt=uo%3D4) and expense it.
-1. [ ] New team member: (For Frontend Developers) If you do not have access to Windows on your computer, please download a [Windows VM](https://developer.microsoft.com/en-us/microsoft-edge/tools/vms/). We recommend using [VMWare Fusion](http://www.vmware.com/products/fusion.html) or [Parallels Desktop](http://www.parallels.com/products/desktop/) for Window virtualization. You may expense the purchase to GitLab or ask PeopleOps to get you a copy.
+1. [ ] New team member: (For Frontend Developers) If you do not have access to Windows on your computer, please download a [Windows VM](https://developer.microsoft.com/en-us/microsoft-edge/tools/vms/). We recommend using [VMWare Fusion](http://www.vmware.com/products/fusion.html) or [Parallels Desktop](http://www.parallels.com/products/desktop/) for Window virtualization. You may expense the purchase to GitLab or ask People Ops to get you a copy.
 1. [ ] New team member: Join the [#ux](https://gitlab.slack.com/messages/ux/) channel on Slack.
 1. [ ] People Ops (Admin): (For Designers) provide [SketchApp](http://www.sketchapp.com/) license by [ordering online](https://sites.fastspring.com/bohemian/order/contents), and forwarding the email with the license key to the new team member.
 1. [ ] People Ops (Admin): (For Designers only, not UX Designers) provide access to [Adobe Creative Cloud](https://www.adobe.com/creativecloud.html) using the shared credential in the Secretarial vault. If a UX Designer feels that they need CC Photoshop and/or CC Illustrator they can request it.
@@ -278,7 +279,7 @@ This info is needed to get the team member's profile ready with Savvy HR in orde
 
 ### FOR CORE TEAM MEMBERS ONLY
 
-1. [ ] People Ops (Specialist): Add e-mail address to the mailing list: https://groups.google.com/forum/#!forum/gitlab-core
+1. [ ] People Ops (Specialist): Add email address to the mailing list: https://groups.google.com/forum/#!forum/gitlab-core
 1. [ ] People Ops (Specialist): Have member sign NDA.
 1. [ ] People Ops (Specialist): Add member to #core and #development in Slack.
 1. [ ] People Ops (Specialist): Give member developer access to gitlab-org.
