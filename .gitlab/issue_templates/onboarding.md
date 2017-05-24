@@ -202,7 +202,7 @@ This info is needed to get the team member's profile ready with Savvy HR in orde
 1. [ ] Context & Comfort with GitLab.com's production environment:
   1. [ ] New team member: review issues labeled as `outage` in the [infrastructure issue tracker](https://gitlab.com/gitlab-com/infrastructure/issues/).
   1. [ ] New team member: read about the [production architecture](https://about.gitlab.com/handbook/infrastructure/production-architecture) and [monitoring](https://about.gitlab.com/handbook/infrastructure/monitoring).
-  1. [ ] New team member: make a change in production (i.e. on GitLab.com). The idea is to get comfortable with the production architecture and environment but not to spend more than 0.5-1 day on this onboarding task. Examples can include building monitoring and alerting for a feature or service; building an automation in gitlab-cog; etc.
+  1. [ ] New team member: make a change in production (i.e. on GitLab.com). The idea is to get comfortable with the production architecture and environment but not to spend more than 0.5-1 day on this onboarding task. Examples can include building monitoring and [alerting](https://gitlab.com/gitlab-com/infrastructure/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name%5B%5D=alert) for a feature or service; building an automation in [gitlab-cog](https://gitlab.com/gitlab-cog); etc.
 
 #### FOR SUPPORT ENGINEERING ONLY
 
