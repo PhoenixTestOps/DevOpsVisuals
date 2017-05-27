@@ -6,9 +6,9 @@ Continuous Delivery - added
 Continuous Testing - added
 Continuous Deployment - pending
 Continuous Monitoring - pending
-Unit Test
-System Test
-Integration Test
-Smoke Test
-Functional Test
-Live Test
+Unit Test - added
+System Test and Integration Test - added
+Smoke Test - added
+Functional Test - added
+Live Test - added
+JUnit Test -added
