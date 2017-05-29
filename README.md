@@ -1,2 +1,2 @@
 # DevOpsVisuals
-Visuals of Design for Phoenix Test Ops Programme
+Visuals of Design for Phoenix TestOps Programme
